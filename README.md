@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alena Stolyarenko — QA Engineer!</h1>
+<h1 align="center">👋 Hi, I'm Alyona Stolyarenko — QA Engineer!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge&logo=qualityassurance" alt="QA Engineer Badge" />
@@ -42,9 +42,9 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 - Charles Proxy / Fiddler  
 
 ### 🧪 Test Management  
-- Jira :contentReference[oaicite:3]{index=3}  
-- TestRail :contentReference[oaicite:4]{index=4}  
-- TestomatIO :contentReference[oaicite:5]{index=5}  
+- Jira 
+- TestRail  
+- TestomatIO 
 - Qase  
 
 ### 🧰 Version Control  
@@ -58,8 +58,6 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ### 🛠️ Web Debugging  
 - Browser DevTools  
-
----
 
 ## 🧠 Fundamentals
 
@@ -81,10 +79,9 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ## 📬 Contact
 
-- 📧 Email: `your_email@example.com`  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 💬 Telegram: [@your_username](https://t.me/your_username)
+- 📧 Email: `estolarenko5@gmail.com`  
+- 💼 LinkedIn: [https://www.linkedin.com/in/alyona-stolyarenko-qa/](https://www.linkedin.com/in/alyona-stolyarenko-qa/)  
+- 💬 Telegram: [@a_stolyarenko13](https://t.me/a_stolyarenko13)
 
----
 
 <p align="center">Let’s build high‑quality products together! 🚀</p>
