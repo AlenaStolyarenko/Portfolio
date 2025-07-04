@@ -38,7 +38,7 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 </p>
 
 ### 🔍 API & Network Testing  
-- Postman :contentReference[oaicite:2]{index=2}  
+- Postman   
 - Charles Proxy / Fiddler  
 
 ### 🧪 Test Management  
