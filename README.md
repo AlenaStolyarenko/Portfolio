@@ -21,20 +21,20 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="assets/img/Postman_(software).png" alt="Postman" width="48"/>
-  <img src="assets/img/226082568-0a72d438-99c3-4962-8e16-724df840d581.png" alt="Charles Proxy" width="48"/>
-  <img src="assets/img/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733.png" alt="Fiddler" width="48"/>
-  <img src="assets/img/jira-logo-png_seeklogo-338597.png" alt="Jira" width="48"/>
-  <img src="assets/img/TestRail_Logo_Main_02_2x.png" alt="TestRail" width="48"/>
-  <img src="assets/img/Testomat_logo.png" alt="TestomatIO" width="48"/>
-  <img src="assets/img/images.png" alt="Qase" width="48"/>
-  <img src="assets/img/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="Git" width="48"/>
-  <img src="assets/img/github-logo-png-hd-11659780126wgzczltlbm.png" alt="GitHub" width="48"/>
-  <img src="assets/img/gitbash.png" alt="Git Bash" width="48"/>
-  <img src="assets/img/png-clipart-macos-app-icons-android-studio-thumbnail.png" alt="Android Studio" width="48"/>
-  <img src="assets/img/095d3681d7fdc1da4e72d354a1b6c747.png" alt="Genymotion" width="48"/>
-  <img src="assets/img/Apache_JMeter.png" alt="JMeter" width="48"/>
-  <img src="assets/img/1_nOBgxSfY_Mjn6Y1UlAKK4w.jpg" alt="DevTools" width="48"/>
+  <img src="assets/img/Postman_(software).png" alt="Postman" height="48"/>
+  <img src="assets/img/226082568-0a72d438-99c3-4962-8e16-724df840d581.png" alt="Charles Proxy" height="48"/>
+  <img src="assets/img/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733.png" alt="Fiddler" height="48"/>
+  <img src="assets/img/jira-logo-png_seeklogo-338597.png" alt="Jira" height="48"/>
+  <img src="assets/img/TestRail_Logo_Main_02_2x.png" alt="TestRail" height="48"/>
+  <img src="assets/img/Testomat_logo.png" alt="TestomatIO" height="48"/>
+  <img src="assets/img/images.png" alt="Qase" height="48"/>
+  <img src="assets/img/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="Git" height="48"/>
+  <img src="assets/img/github-logo-png-hd-11659780126wgzczltlbm.png" alt="GitHub" height="48"/>
+  <img src="assets/img/gitbash.png" alt="Git Bash" height="48"/>
+  <img src="assets/img/png-clipart-macos-app-icons-android-studio-thumbnail.png" alt="Android Studio" height="48"/>
+  <img src="assets/img/095d3681d7fdc1da4e72d354a1b6c747.png" alt="Genymotion" height="48"/>
+  <img src="assets/img/Apache_JMeter.png" alt="JMeter" height="48"/>
+  <img src="assets/img/1_nOBgxSfY_Mjn6Y1UlAKK4w.jpg" alt="DevTools" height="48"/>
 </p>
 
 ### 🔍 API & Network Testing  
