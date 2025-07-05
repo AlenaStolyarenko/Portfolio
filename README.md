@@ -91,14 +91,14 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ### 🏫 Courses
 <div align="center">
-  <img src="assets/img/MateAcademy.png" alt="Mate academy" width="300"/>
-  <img src="assets/img/NoLimit-School.jpg" alt="NoLimit School" width="300"/>
-   <img src="assets/img/Projector.png" alt="Projector" width="250"/>
+  <img src="assets/img/MateAcademy.png" alt="Mate academy" width="400"/>
+  <img src="assets/img/NoLimit-School.jpg" alt="NoLimit School" width="400"/>
+   <img src="assets/img/Projector.png" alt="Projector" width="350"/>
 </div>
 <ul>
-  <li><a href="https://mate.academy/">QA Manual Course @ Mate academy</a></li>
-  <li><a href="https://prjctr.com/">QA Basics @ Projector Institute</a></li>
-  <li><a href="https://nolimit.school/">QA Course @ NoLimit School</a></li>
+  <li>QA Manual Course  Mate academy</li>
+  <li>QA Basics  Projector Institute</li>
+  <li>QA Course NoLimit School</li>
 </ul>
 
 ### 📜 Certifications
