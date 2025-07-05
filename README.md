@@ -20,8 +20,8 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="assets/img/Postman_(software).png" alt="Postman" height="100" width="150"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="assets/img/Postman_(software).png" alt="Postman" height="100" width="100"/>
   <img src="assets/img/226082568-0a72d438-99c3-4962-8e16-724df840d581.png" alt="Charles Proxy" height="100" width="100"/>
   <img src="assets/img/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733.png" alt="Fiddler" height="100" width="100"/>
   <img src="assets/img/jira-logo-png_seeklogo-338597.png" alt="Jira" height="100" width="100"/>
@@ -34,7 +34,8 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
   <img src="assets/img/095d3681d7fdc1da4e72d354a1b6c747.png" alt="Genymotion" height="100" width="100"/>
   <img src="assets/img/Apache_JMeter.png" alt="JMeter" height="100" width="100"/>
   <img src="assets/img/1_nOBgxSfY_Mjn6Y1UlAKK4w.jpg" alt="DevTools" height="100" width="100"/>
-</p>
+</div>
+
 
 ### 🔍 API & Network Testing  
 - Postman   
