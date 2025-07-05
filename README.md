@@ -24,8 +24,9 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
   <img src="assets/img/Postman_(software).png" alt="Postman" height="100" width="100"/>
   <img src="assets/img/226082568-0a72d438-99c3-4962-8e16-724df840d581.png" alt="Charles Proxy" height="100" width="100"/>
   <img src="assets/img/TestRail_Logo_Main_02_2x.png" alt="TestRail" height="100" width="100"/>
-  <img src="assets/img/Testomat_logo.png" alt="TestomatIO" height="100" width="100"/>
+    <img src="assets/img/images.png" alt="Qase" height="100" width="100"/>
   <img src="assets/img/images.png" alt="Qase" height="100" width="100"/>
+  <img src="assets/img/Testomat_logo.png" alt="TestomatIO" height="100" width="100"/>
   <img src="assets/img/github-logo-vector.png" alt="GitHub" height="100" width="100"/>
   <img src="assets/img/git.png" alt="Git Bash" height="100" width="100"/>
   <img src="assets/img/Screenshot 2023-05-09 at 6.13.20 PM.png" alt="Android Studio" height="100" width="100"/>
