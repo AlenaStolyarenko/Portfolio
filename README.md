@@ -1,4 +1,5 @@
-<h1 align="center">👋 I'm Alyona — Manual QA Engineer | Web 🌐 + Mobile 📱 | Agile 🚀 | API 🔌</h1>
+<h1 align="center">👋 I'm Alyona — Manual QA Engineer</h1>
+<p align="center"><strong>Web 🌐 + Mobile 📱 | Agile 🚀 | API 🔌</strong></p>
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
