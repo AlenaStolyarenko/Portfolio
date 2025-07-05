@@ -1,10 +1,12 @@
-<h1 align="center">👋 Hi, I'm Alyona Stolyarenko — QA Engineer!</h1>
+<h1 align="center">👋 I'm Alyona — Manual QA Engineer | Web 🌐 + Mobile 📱 | Agile 🚀 | API 🔌</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge&logo=qualityassurance" alt="QA Engineer Badge" />
-  <img src="https://img.shields.io/badge/Web%20&%20Mobile%20Testing-success?style=for-the-badge&logo=googlechrome" alt="Web & Mobile Testing Badge" />
-  <img src="https://img.shields.io/badge/Agile/SCRUM-blueviolet?style=for-the-badge&logo=scrumalliance" alt="Agile/SCRUM Badge" />
-</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
+  <img src="https://img.shields.io/badge/QA%20Engineer-007ACC?style=for-the-badge&logo=testing-library&logoColor=white" alt="QA Engineer Badge" />
+  <img src="https://img.shields.io/badge/Web_&_Mobile_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Web & Mobile Testing Badge" />
+  <img src="https://img.shields.io/badge/Agile_&_SCRUM-FC7303?style=for-the-badge&logo=trello&logoColor=white" alt="Agile/SCRUM Badge" />
+</div>
+
 
 ---
 
