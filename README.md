@@ -28,7 +28,6 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
     <img src="assets/img/095d3681d7fdc1da4e72d354a1b6c747.png" alt="Genymotion" height="100" width="100"/>
   <img src="assets/img/TestRail_Logo_Main_02_2x.png" alt="TestRail" height="100" width="100"/>
   <img src="assets/img/images.png" alt="Qase" height="100" width="100"/>
-    <img src="assets/img/github-logo-vector.png" alt="GitHub" height="100" width="100"/>
   <img src="assets/img/github-logo-vector.png" alt="GitHub" height="100" width="100"/>
   <img src="assets/img/Testomat_logo.png" alt="TestomatIO" height="100" width="100"/>
       <img src="assets/img/1_nOBgxSfY_Mjn6Y1UlAKK4w.jpg" alt="DevTools" height="100" width="100"/>
