@@ -96,13 +96,13 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ### 📜 Certifications
 - [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/68360cf35087f10962273e6f)
-- JMeter: Performance and Load Testing — LinkedIn Learning(https://www.linkedin.com/learning/certificates/182daac56b9856d4fba54c78ce287e914e26abaddfcf86ea82c7506ca5fa468e)
-- Chrome Web Developer Tools — LinkedIn Learning
-- Agile Project Management with Jira Cloud (1–3) — LinkedIn Learning
-- Scrum: The Basics — LinkedIn Learning
-- Introduction to Web APIs — LinkedIn Learning
-- Networking Basics — LinkedIn Learning
-- SmallTalk English Speaking Level Test — SmallTalk2Me
+- [JMeter: Performance and Load Testing — LinkedIn Learning](https://www.linkedin.com/learning/certificates/182daac56b9856d4fba54c78ce287e914e26abaddfcf86ea82c7506ca5fa468e)
+- [Chrome Web Developer Tools — LinkedIn Learning](https://www.linkedin.com/learning/certificates/5e20e1c875be6fdf82e21fa4a17326df7bdf68c36d35cb4cb6c682d97e46c1b4)
+- [Agile Project Management with Jira Cloud (1–3) — LinkedIn Learning](https://www.linkedin.com/learning/certificates/22ae64a1d71f6f9879059a476db62fa7984a3e4db9a9cf3c16cb4fd683fe3c43)
+- [Scrum: The Basics — LinkedIn Learning](https://www.linkedin.com/learning/certificates/f4fc2c422648b91c4f798b77a20c93816ae98e54aa88d4aa4c15b518b0e162b3)
+- [Introduction to Web APIs — LinkedIn Learning](https://www.linkedin.com/learning/certificates/20e8aa2fda2c3b9dba7332e8ff2f0dd7e8ab1687c888e7f1873d6874a53870d9)
+- [Networking Basics — LinkedIn Learning](https://www.linkedin.com/learning/certificates/b5ec2f707e39e3fda1d7db3ea9ffbe5a7313b1f23844c728f8f218946ad32c0f)
+- [SmallTalk English Speaking Level Test — SmallTalk2Me](https://cabinet.smalltalk2.me/certificates/0b4fc807)
 
 ---
 
@@ -121,4 +121,3 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 - 📧 Email: `estolarenko5@gmail.com`  
 - 💼 LinkedIn: [https://www.linkedin.com/in/alyona-stolyarenko-qa/](https://www.linkedin.com/in/alyona-stolyarenko-qa/)  
 - 💬 Telegram: [@a_stolyarenko13](https://t.me/a_stolyarenko13)
-
