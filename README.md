@@ -96,7 +96,7 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ### 📜 Certifications
 - [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/68360cf35087f10962273e6f)
-- JMeter: Performance and Load Testing — LinkedIn Learning
+- JMeter: Performance and Load Testing — LinkedIn Learning(https://www.linkedin.com/learning/certificates/182daac56b9856d4fba54c78ce287e914e26abaddfcf86ea82c7506ca5fa468e)
 - Chrome Web Developer Tools — LinkedIn Learning
 - Agile Project Management with Jira Cloud (1–3) — LinkedIn Learning
 - Scrum: The Basics — LinkedIn Learning
