@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Playwright-blue?style=for-the-badge&logo=playwright"/>
-  <img src="https://img.shields.io/badge/Likes-DevTools-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Looking%20for%20Opportunities-%F0%9F%9A%80-9cf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exploring-Playwright-FF69B4?style=for-the-badge&logo=playwright"/>
+  <img src="https://img.shields.io/badge/DevTools%20Lover-%E2%9D%A4%EF%B8%8F-critical?style=for-the-badge"/>
 </p>
 
 <p align="center">
