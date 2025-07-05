@@ -91,7 +91,7 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 
 ### 🏫 Courses
 <div align="center">
-  <img src="assets/img/MateAcademy.png" alt="Mate academy" width="400"/>
+  <img src="assets/img/MateAcademy.png" alt="Mate academy" width="450"/>
   <img src="assets/img/NoLimit-School.jpg" alt="NoLimit School" width="400"/>
    <img src="assets/img/Projector.png" alt="Projector" width="350"/>
 </div>
