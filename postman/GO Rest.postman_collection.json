@@ -1,0 +1,209 @@
+{
+	"info": {
+		"_postman_id": "2a5c5573-7d99-4c60-8879-f51f5da82f1c",
+		"name": "GO Rest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29391071"
+	},
+	"item": [
+		{
+			"name": "Create a new user",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Gender is equal to male\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.gender).to.eql(\"male\");\r",
+							"});\r",
+							"\r",
+							"var jsonData = pm.response.json();\r",
+							"pm.environment.set(\"ID user\", jsonData.id);"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "ccb84d65985a62237cf4c8098518526ca25868af2a7c5301f993b705cf9cac6b",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Tenaliy Ramakrishna\",\r\n    \"gender\": \"male\",\r\n    \"email\": \"{{$randomEmail}}\",\r\n    \"status\": \"active\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{baseURL}}/public/v2/users",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get user details",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Registered name is equal to Tenaliy Ramakrishna\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.name).to.eql(\"Tenaliy Ramakrishna\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "ccb84d65985a62237cf4c8098518526ca25868af2a7c5301f993b705cf9cac6b",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/public/v2/users/{{ID user}}",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users",
+						"{{ID user}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update user details",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Registered name is equal to Allasani Peddana\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.name).to.eql(\"Allasani Peddana\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Gender is equal to male\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.gender).to.eql(\"male\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "ccb84d65985a62237cf4c8098518526ca25868af2a7c5301f993b705cf9cac6b",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Allasani Peddana\",\r\n    \"email\": \"allasani.peddana@15ce.com\",\r\n    \"status\": \"active\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{baseURL}}/public/v2/users/{{ID user}}",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users",
+						"{{ID user}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete user",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "ccb84d65985a62237cf4c8098518526ca25868af2a7c5301f993b705cf9cac6b",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/public/v2/users/{{ID user}}",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"public",
+						"v2",
+						"users",
+						"{{ID user}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
