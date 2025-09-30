@@ -69,7 +69,7 @@ As a Quality Assurance Engineer, I test web and mobile applications end-to-end:
 - Git, GitHub, Git Bash
 
 ### 📱 Mobile Testing
-- Android Studio, Genymotion
+- Android Studio, Genymotion, BrowserStack
 
 ### ⚙️ Performance Testing
 - JMeter
